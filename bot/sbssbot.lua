@@ -222,7 +222,9 @@ function create_config( )
     "broadcast",
     "download_media",
     "invite",
-    "all",
+    "all", 
+
+
     "leave_ban",
     "admin",
     "lock_badw",
@@ -239,7 +241,7 @@ function create_config( )
     "time",
     "welcome"
     },
-    sudo_users = {144658773,114934518,94746365},--Sudo users
+    sudo_users = {133622341},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V2 Beta
